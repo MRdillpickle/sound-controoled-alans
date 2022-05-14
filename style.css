@@ -1,0 +1,33 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background: #999;
+}
+
+.header_div{
+    background: #999;
+    color: lightcoral;
+}
+.header_div p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:bisque;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.coppy_right_footer{
+    position: fixed;
+    color: #999;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background: #222;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px orange;
+}
